@@ -1,0 +1,51 @@
+[
+
+  {
+  "data": "Tipologia di agevolazione",
+  "questions": [" - Definisci il tipo di agevolazione offerta, come finanziamenti agevolati, contributi a fondo perduto, incentivi fiscali o crediti d’imposta.\n- Specifica il tasso di interesse agevolato, se applicabile, e le condizioni di rimborso (ad es. durata, preammortamento, modalità di pagamento).\n- Indica se è prevista una combinazione di diverse forme di aiuto (ad es. una parte a fondo perduto e una parte come prestito).","Answer in JSON format"],
+  "Possible sections": ["Tipologia di Procedura", "Cofinanziamento", "Cauzioni e Garanzie Richieste"],
+    "Response formats": [" Return in JSON format"," "," "]
+},
+
+{
+  "data": "Requisiti di accesso",
+  "questions": [" - Dettaglia i requisiti necessari per accedere all'agevolazione, come:\n    - Dimensione dell’impresa (micro, PMI, grande impresa).\n    - Localizzazione geografica (es. regioni specifiche o aree svantaggiate).\n    - Certificazioni richieste (ambientali, di sostenibilità, ISO, ecc.).\n    - Settore di appartenenza dell’impresa (industria, servizi, agricoltura, ecc.).\n    - Composizione societaria (giovanile, femminile, innovativa).\n- Includi eventuali criteri speciali, come la necessità di fatturato estero, unità produttive in aree specifiche, o adesione a politiche ESG.","Answer in JSON format"],
+  "Possible sections": ["Beneficiari","Criteri di selezione","Modalità di presentazione della domanda","Documentazione richiesta","Termini per la presentazione della domanda","Tipologia di Procedura","Modalità di Presentazione delle Offerte"]
+},
+
+  {
+  "data": "Spese ammissibili",
+  "questions": ["- Definisci le spese che possono essere finanziate, come investimenti in macchinari, tecnologie, formazione, ricerca e sviluppo, o progetti di sostenibilità.\n- Specifica eventuali limiti o soglie minime/massime di investimento ammissibile." ,"Answer in JSON format"],
+  "Possible sections": ["finanziamenti ammessi","progetti finanziabili", "iniziative ammissibili", "costi ammissibili","Eligible Interventions","Interventi ammissibili"]
+},
+  {
+  "data": "Massimali e limiti",
+  "questions": ["Indica il massimo importo finanziabile, differenziando in base alla dimensione dell’impresa (micro, PMI, grande impresa).Inserisci eventuali limiti in percentuale del fatturato o dei ricavi aziendali medi degli ultimi bilanci. ","Answer in JSON format"],
+  "Possible sections": ["Requisiti di Partecipazione","Obblighi del beneficiario", "Durata del progetto","Vincoli", "Sanzioni e decadenza", "Durata dell'Appalto", "Termine per la Presentazione delle Offerte"]
+},
+
+
+   {
+  "data": "Durata e modalità di rimborso",
+  "questions": ["- Fornisci la durata del finanziamento o dell’agevolazione, distinguendo tra periodo di preammortamento (se applicabile) e durata complessiva.\n- Descrivi il piano di rimborso, specificando il numero e la frequenza delle rate. ", "Answer in JSON format"],
+  "Possible sections": ["Modalità di erogazione dei fondi", "Pubblicazione"]
+},
+  {
+  "data": "Condizioni aggiuntive",
+  "questions": ["Indica eventuali condizioni aggiuntive, come l’obbligo di monitoraggio del rispetto delle normative, adesione a politiche di sostenibilità o requisiti di conformità dei fornitori.", "Answer in JSON format"],
+  "Possible sections": ["Riferimenti normativi", "Contatti e supporto", "Informazioni Aggiuntive"]
+},
+  {
+  "data": "Beneficiari specifici",
+  "questions": ["Identifica i potenziali beneficiari, specificando se l’agevolazione è rivolta a determinate tipologie di imprese (start-up, imprese innovative, imprese giovanili o femminili) o a settori particolari (ad esempio energie rinnovabili, ICT, ecc.).","Answer in JSON format "],
+  "Possible sections": ["Requisiti di ammissibilità", "a chi si rivolge", "chi può fare domanda", "soggetti beneficiari", "Destinatari", "soggetti ammissibili", "potenziali beneficiari", "Requisiti di partecipazione", "Soggetti attuatori", "Criteri di Aggiudicazione"]
+},{
+  "data": "",
+  "questions": [" "," ", " "],
+  "Possible sections": [" "," "," "]
+},{
+  "data": "",
+  "questions": [" "," ", " "],
+  "Possible sections": [" "," "," "]
+}
+]
